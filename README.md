@@ -2,12 +2,12 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsinghvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsinghvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> -->
 </p>
 
 <p align=center>
-<img height="25" src="https://badges.pufler.dev/visits/divyanshsinghvi/divyanshsinghvi?color=black&logo=github" />
-<img height="25" src="https://komarev.com/ghpvc/?username=divyanshsinghvi&color=brightgreen" />
+<!-- <img height="25" src="https://badges.pufler.dev/visits/divyanshsinghvi/divyanshsinghvi?color=black&logo=github" /> -->
+<!-- <img height="25" src="https://komarev.com/ghpvc/?username=divyanshsinghvi&color=brightgreen" /> -->
 <a href="https://github.com/divyanshsinghvi">
 </a>
 </p>
