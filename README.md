@@ -1,25 +1,27 @@
-- 👋 Hi, I’m @divyanshsinghvi
-
+# 👋 Hi, I’m Divyansh Singhvi  
 
 <p align="center">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsinghvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshsinghvi&show_icons=true&hide=issues,contribs&theme=dracula" alt="Divyansh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsinghvi&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
 
-<p align=center>
-<!-- <img height="25" src="https://badges.pufler.dev/visits/divyanshsinghvi/divyanshsinghvi?color=black&logo=github" /> -->
-<!-- <img height="25" src="https://komarev.com/ghpvc/?username=divyanshsinghvi&color=brightgreen" /> -->
-<a href="https://github.com/divyanshsinghvi">
-</a>
+---
+
+## 🚀 About Me
+<!-- - 📖 Co-author of an ACL 2025 paper on interpretability in LLMs  -->  
+<!-- - 🧑‍💻 Open-source contributor (vLLM, PyTorch, mechanistic interpretability repos)  -->
+- 🌱 Currently exploring **reinforcement learning** & **mechanistic interpretability**  
+- 💡 I enjoy building **scalable ML infra**, doing **applied research**, and **teaching/explaining ideas**  
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://github.com/divyanshsinghvi"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/divyanshsinghvi/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:divyanshsinghvi9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+---
 
-<!-- ![Ruchi's github stats](https://github-readme-stats.vercel.app/api?username=ruch798&show_icons=true&hide=contribs,issues)
 
-<!---
-- 💞️ I’m looking to collaborate on deep learning
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning lots of things
-- 📫 How to reach me ...
-divyanshsinghvi/divyanshsinghvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
