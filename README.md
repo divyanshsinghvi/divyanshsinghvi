@@ -10,12 +10,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshsinghvi&show_icons=true&hide=issues,contribs&theme=dracula" alt="Divyansh's GitHub stats" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshsinghvi&show_icons=true&theme=dracula&hide_rank=true&include_all_commits=true&line_height=40" alt="Divyansh's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsinghvi&theme=dracula" alt="Top Langs" />
 </p>
+
 
 ---
 
