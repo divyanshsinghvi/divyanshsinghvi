@@ -1,17 +1,21 @@
 # 👋 Hi, I’m Divyansh Singhvi  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshsinghvi&show_icons=true&hide=issues,contribs&theme=dracula" alt="Divyansh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsinghvi&layout=compact&theme=dracula" alt="Top Langs" />
-</p>
-
----
 
 ## 🚀 About Me
 <!-- - 📖 Co-author of an ACL 2025 paper on interpretability in LLMs  -->  
 <!-- - 🧑‍💻 Open-source contributor (vLLM, PyTorch, mechanistic interpretability repos)  -->
 - 🌱 Currently exploring **reinforcement learning** & **mechanistic interpretability**  
 - 💡 I enjoy building **scalable ML infra**, doing **applied research**, and **teaching/explaining ideas**  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshsinghvi&show_icons=true&hide=issues,contribs&theme=dracula" alt="Divyansh's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsinghvi&theme=dracula" alt="Top Langs" />
+</p>
 
 ---
 
