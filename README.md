@@ -10,7 +10,8 @@
 ---
 
 ![Stats](images/userstats.svg) 
-<-- - Used (https://github.com/cicirello/user-statistician) to generate -->
+
+<!-- - Used (https://github.com/cicirello/user-statistician) to generate -->
 
 
 ---
