@@ -9,13 +9,6 @@
 
 ---
 
-![Stats](images/userstats.svg) 
-
-<!-- - Used (https://github.com/cicirello/user-statistician) to generate -->
-
-
----
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://github.com/divyanshsinghvi"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub"></a>
@@ -25,4 +18,9 @@
 
 ---
 
+![Stats](images/userstats.svg) 
+
+<!-- - Used (https://github.com/cicirello/user-statistician) to generate -->
+
+---
 
