@@ -6,7 +6,7 @@
 <!-- - 🧑‍💻 Open-source contributor (vLLM, PyTorch, mechanistic interpretability repos)  -->
 - 🌱 Currently exploring **reinforcement learning** & **mechanistic interpretability**  
 - 💡 I enjoy building **scalable ML infra**, doing **applied research**, and **teaching/explaining ideas**  
-- <a href="https://divyanshsinghvi.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff" alt="Substack"></a> Checkout my latest posts.
+-  Checkout my latest posts at <a href="https://divyanshsinghvi.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff" alt="Substack"></a>
 
 ---
 
