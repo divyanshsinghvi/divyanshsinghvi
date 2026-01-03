@@ -24,6 +24,6 @@ jobs:
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1.24.2
       with:
-        hide-keys: general
+        hide-keys: general, repositories
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
